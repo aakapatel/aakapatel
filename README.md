@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨‍🎓 **I'm Akash Patel**, a **Ph.D. Candidate** with the [Robotics and AI Team](https://github.com/LTU-RAI) at Luleå University of Technology. I enjoy developing robotic software solutions for **autonomous deployment** in challenging environments. 👨‍🔧
+👨‍🎓 **I'm Akash Patel**, a **Ph.D. Candidate** with the [Robotics and AI Team](https://github.com/LTU-RAI) at Luleå University of Technology. I develope robotic software solutions for **autonomous deployment** in challenging environments. 👨‍🔧
 
 - 🤖 **Current Research**: Focused on **Autonomous Robotic Exploration & Path Planning**.
 - 💻 **Tech Stack**: Working with **ROS 1 / ROS 2** | **C++** | **Docker** | **CSS**.
