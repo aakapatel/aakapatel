@@ -4,7 +4,7 @@
 
 - 🤖 **Current Research**: Focused on **Autonomous Robotic Exploration & Path Planning**.
 - 💻 **Tech Stack**: Working with **ROS 1 / ROS 2** | **C++** | **Docker** | **CSS** | **JavaScript**.
-- 🌐 [**Website**]([https://aakapatel.com/](https://aakapatel.com/?gate=1)) 
+- 🌐 [**Website**]([https://aakapatel.com/](https://aakapatel.com/)) 
 - 🔗 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/aakapatel/)
 - 📫 **Email Me**: [email](mailto:patelakash94293@gmail.com)
 
